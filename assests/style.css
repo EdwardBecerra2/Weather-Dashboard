@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.h1-container {
+    padding: 4px;
+}
+
+.form-container {
+    padding: 10px;
+}
+
+.search-label {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.search-button {
+    padding: 10px 15px;
+}
+
+.search-history-container {
+    padding: 10px;
+}
