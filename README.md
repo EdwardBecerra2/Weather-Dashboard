@@ -5,3 +5,4 @@ An application that utilizes the third-party API/OpenWeather, to retrieve weathe
 ![Alt Text](<Images/Screenshot 2023-11-28 at 4.41.58 PM.png>)
 
 ## Deployed Application
+https://edwardbecerra2.github.io/Weather-Dashboard/
